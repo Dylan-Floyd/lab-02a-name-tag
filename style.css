@@ -53,3 +53,12 @@
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
 }
+
+.input-div {
+    padding-top:10px;
+}
+
+#name-input {
+    width: 207px;
+    margin-right: 10px;
+}
